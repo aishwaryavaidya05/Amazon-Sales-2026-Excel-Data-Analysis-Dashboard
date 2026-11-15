@@ -28,8 +28,9 @@ The objective of this project is to demonstrate practical Excel skills for e-com
 ## Project Files
 - `E-Commerce-Dataset analysis and dashboard using Excel.xlsx` – Excel workbook containing the source data, Pivot Tables and dashboard.
 - `README.md` – Project documentation.
-- `Dashboard_Screenshot.png`- Dashboard Image.
-- 
+- `Dashboard.png`- Dashboard Image.
+  
+![Dashboard Image](Dashboard.png)
 ---
 
 ## Dataset Credits
